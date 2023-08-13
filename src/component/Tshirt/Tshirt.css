@@ -1,0 +1,11 @@
+.tshirt-container{
+    border: 1px solid aqua;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+.tshirt-container img{
+    width: 250px;
+    border-radius: 10px;
+    height: 250px;
+}
